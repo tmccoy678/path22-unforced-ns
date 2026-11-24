@@ -6,8 +6,8 @@ authors:
   - family-names: Westfall-McCoy
     given-names: Taylor
   - name: "Blu (OpenAI GPT-5.6-Sol)"
-version: 0.1.0
+version: 0.2.0
 date-released: 2026-11-24
 license: MIT
-abstract: "A Lean-certified finite zero-forcing incompressible Navier–Stokes realization of the Path 22 carrier geometry, with deterministic data binding and cross-host reproduction."
+abstract: "A finite zero-forcing incompressible Navier–Stokes realization of the Path 22 carrier geometry, with journal-quality vorticity sections, deterministic Lean data binding, and cross-host reproduction."
 

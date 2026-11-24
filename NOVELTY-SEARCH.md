@@ -16,13 +16,13 @@ formal proof, and similarity scaling as partial precedents:
 4. construction of a new smooth divergence-free 3-D body from the same path by
    a smoothed vector potential and spectral curl;
 5. zero-background, zero-body-force viscous evolution using only `E(0)`;
-6. passive full-arclength annular sensing with observational zero while field
+6. passive full-arclength annular probes with observational zero while field
    energy remains nonzero;
-7. concentration during global energy decay, phase inversion, weak return, and
-   release;
+7. concentration during global energy decay, phase inversion, retention
+   recovery, and release;
 8. matched phase-erased control and independent ARM/x86 reproduction;
 9. Lean certification of the compact finite invariants; and
-10. child-chosen water and dry-air Earth scalings with explicit `u/c`.
+10. selected water and dry-air Earth scalings with explicit `u/c`.
 
 ## Search result
 
@@ -61,8 +61,21 @@ search universe.
   <https://doi.org/10.1063/5.0306402>
 - A 2025 Nature Communications study shows that sensing flow gradients is
   necessary for learned underwater navigation. The present sensors are passive
-  full-arclength whiskers on a zero-forcing realized body.
+  full-arclength annular probes on a zero-forcing realized body.
   <https://doi.org/10.1038/s41467-025-58125-6>
+
+### Lagrangian inference and memory
+
+- TrajectoryFlowNet reconstructs physically consistent Eulerian flow fields
+  and long-range particle trajectories from sparse Lagrangian observations.
+  The present work supplies one source-bound trajectory-to-carrier geometry
+  with a frozen ensemble and formal finite certificate.
+  <https://arxiv.org/abs/2507.09621>
+- De Wit et al. use Mori–Zwanzig memory and time-delay embedding to recover
+  unresolved influences on long-horizon Lagrangian particle dynamics. The
+  preserved Path 22 ordering, entry turns, return intervals and chirped release
+  provide finite-history observables rather than an unordered point cloud.
+  <https://doi.org/10.1073/pnas.2525390123>
 
 ### Rigorous computation and formalization
 
@@ -80,6 +93,12 @@ search universe.
   FFT implementations, demonstrating how small cross-platform differences can
   be exposed and classified. The present work binds a Navier–Stokes carrier to
   Lean and physical scaling. <https://doi.org/10.1016/j.future.2024.107684>
+- Silva (2026) develops a computer-assisted global-regularity framework that
+  retains the nonlinear residual beyond spectral truncation and carries a
+  finite comparison into terminal viscous decay. Its neural-operator study
+  improves prediction without necessarily improving discovery of
+  proof-limiting initial data. This is the nearest methodological precedent for
+  the next Path 22 residual/tail gate. <https://arxiv.org/abs/2609.16157>
 
 ## Query families
 

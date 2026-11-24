@@ -1,0 +1,16 @@
+PATH 22 UNFORCED NS INITIAL VORTICITY SECTIONS
+date=2026-11-24
+resolution=64
+plane_grid=161
+viscosity=0.01
+body_force=identically_zero
+initial_energy=1.0000000000000016
+normalized_divergence=4.4961713435586033e-17
+global_vorticity_max=808.90135427169275
+carrier_center=4.353540745977126,3.2610706642574194,3.0951080452496935
+carrier_tangent=0.95235375442651449,-0.30490354137000369,-0.0074937900792824254
+horizontal_plane_max_fraction=0.97011151024364795
+vertical_plane_max_fraction=0.89959289457169977
+normal_plane_max_fraction=0.91992929166546689
+common_scale=global_3d_vorticity_max
+path_input_sha256=164b3e3879b9fd4f1d0710aa23843c7394916a508093b77b1f01d6cd713cd288
