@@ -24,7 +24,7 @@ IAPWS_WATER = "https://iapws.org/technical-guidance/release/LiquidWater"
 NASA_AIR = "https://www.grc.nasa.gov/www/BGH/airprop.html"
 SPEED_OF_LIGHT_M_S = 299_792_458.0
 
-# One child-chosen scale per medium.  The water values are the rounded IAPWS
+# One selected scale per medium.  The water values are the rounded IAPWS
 # liquid-water correlations at 293.15 K and 0.1 MPa.  The air values are the
 # sea-level standard-day values printed by NASA Glenn at 288.15 K.
 MEDIA = (
