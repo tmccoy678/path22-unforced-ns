@@ -4,6 +4,8 @@ namespace Path22
 def bodyForce : Int × Int × Int := (0, 0, 0)
 def proStudioExact : Bool := true
 def intelStudioWithinTolerance : Bool := true
+def observationalZeroTimeMillis : Nat := 100
+def weakReturnTimeMillis : Nat := 350
 
 def musicEnergy0 : Nat := 1000000000000000
 def musicEnergy50 : Nat := 887662552864561

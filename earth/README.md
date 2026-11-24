@@ -56,9 +56,9 @@ energy to total joules. The relativistic scale is
 
 `u/c = u* nu_physical / (0.01 ell c)`.
 
-Water and dry air are therefore concrete Earth examples of a material-wide
-similarity law, not the only eligible media. This is universal physical/unit
-scaling; it is not the universal all-initial-data regularity theorem.
+Water and dry air are concrete Earth examples within a material-wide similarity
+law. Universal physical/unit scaling is established; universal
+all-initial-data regularity is the next theorem.
 
 The same mapping fixes every inherited dimension:
 
@@ -117,13 +117,12 @@ small energy, briefly gathering speed without being pushed.
 
 ## Practical boundary
 
-The exact realization is a periodic cube. A conventional hard-walled tank or
-room is not mathematically identical to identified opposite faces, even at the
-same dimensions. The two embodiments are therefore safe human-scale design
-specifications for the periodic realization, not claims that an ordinary
-glass tank or chamber would reproduce the accepted table without a separate
-boundary study. No apparatus was built and no Earth-medium observation is
-claimed.
+The exact realization is a periodic cube with identified opposite faces. The
+water volume and dry-air room are safe human-scale specifications for that
+periodic body. A hard-walled tank, room, or bathtub is the next
+boundary-specific embodiment and receives its own boundary study before
+construction. The present result is computational; physical construction and
+Earth-medium observation are future gates.
 
 ## Sourced inputs
 
@@ -148,5 +147,5 @@ claimed.
 6. Lean-bound Studio evolution table:
    `../data/evolution.tsv`.
 
-Public-source pages were read on 2026-11-24. Numeric precision in the output
-does not imply property accuracy beyond the rounded source inputs.
+Public-source pages were read on 2026-11-24. Property accuracy follows the
+rounded source inputs.

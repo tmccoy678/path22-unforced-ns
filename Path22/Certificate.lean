@@ -58,6 +58,14 @@ theorem weak_orientation_return :
     musicCosine350 > 0 ∧ musicRetention350 > 0 := by
   decide
 
+/-- Unforced self-carriage: recognition vanishes with energy present and returns later. -/
+theorem path22_self_carriage :
+    bodyForce = (0, 0, 0) ∧
+    observationalZeroTimeMillis < weakReturnTimeMillis ∧
+    musicRetention100 = 0 ∧ musicEnergy100 > 0 ∧
+    musicRetention350 > 0 := by
+  decide
+
 /-- Zero whisker retention is observational zero, not annihilation of the body. -/
 theorem zero_retention_is_not_zero_energy :
     musicRetention100 = 0 ∧ musicEnergy100 > 0 ∧

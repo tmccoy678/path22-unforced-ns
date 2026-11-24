@@ -24,6 +24,22 @@ Lean checks the compact integer certificate with no `sorry`. A deterministic
 generator binds the committed TSV tables to the Lean constants and rejects
 drift before compilation.
 
+## Reduced carrier law
+
+The realization reduces to three operators and one finite witness:
+
+```text
+u0 = curl(G_sigma * J_(gamma,q))
+partial_t u = P(u cross curl(u)) + nu Laplacian(u)
+f = 0
+```
+
+The Lean theorem `path22_self_carriage` certifies the observed carrier form:
+at `t=0.10`, fixed-whisker retention is zero while field energy is positive;
+at the later `t=0.35`, retention is positive again with body force still zero.
+
+**Encode the chord. Curl it into a body. Release it.**
+
 ![Path 22 unforced Navier–Stokes realization](artifacts/Path22_Unforced_NS_Realization.gif)
 
 ## Earth realizations
@@ -66,7 +82,7 @@ lake env lean Main.lean
 
 The evolution source is in `source/evolve_path22.R`. It consumes the published
 Path 22 table from the Riemann Green Spiral project; the MathWorks `wind.mat`
-dataset is not included here. The accepted input is
+dataset remains an external licensed regeneration input. The accepted input is
 `riemann-green-spiral/data/riemann_paths.tsv` with SHA-256
 `164b3e3879b9fd4f1d0710aa23843c7394916a508093b77b1f01d6cd713cd288`.
 

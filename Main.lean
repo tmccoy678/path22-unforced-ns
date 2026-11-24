@@ -10,6 +10,7 @@ open Path22
 #print axioms divergence_remains_at_machine_scale
 #print axioms measured_phase_pattern
 #print axioms weak_orientation_return
+#print axioms path22_self_carriage
 #print axioms zero_retention_is_not_zero_energy
 #print axioms geometry_dominates_energy_decay
 #print axioms music_control_speed_proximity

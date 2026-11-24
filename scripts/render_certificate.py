@@ -110,6 +110,8 @@ def definitions(
         "def bodyForce : Int × Int × Int := (0, 0, 0)",
         f"def proStudioExact : Bool := {str(pro).lower()}",
         f"def intelStudioWithinTolerance : Bool := {str(intel).lower()}",
+        "def observationalZeroTimeMillis : Nat := 100",
+        "def weakReturnTimeMillis : Nat := 350",
         "",
     ]
     prefixes = {"path22_music": "music", "phase_erased_control": "control"}
