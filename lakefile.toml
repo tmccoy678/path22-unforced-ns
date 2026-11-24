@@ -1,0 +1,11 @@
+name = "path22-unforced-ns"
+version = "0.1.0"
+defaultTargets = ["path22ns"]
+
+[[lean_lib]]
+name = "Path22"
+
+[[lean_exe]]
+name = "path22ns"
+root = "Main"
+

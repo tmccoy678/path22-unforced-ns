@@ -1,0 +1,5 @@
+host	architecture	case	r_version	comparison	maximum_absolute_numeric_difference	construction_byte_identical
+Taylors-Mac-Studio	arm64	path22_music_and_phase_erased_control	4.6.2	reference	0	true
+DobeWorks-01	arm64	path22_music	4.6.2	exact_numeric_match	0	true
+agar-MacBook-Pro	x86_64	phase_erased_control	4.6.2	within_absolute_tolerance_1e-9	9.550405e-11	true
+

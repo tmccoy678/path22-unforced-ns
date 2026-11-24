@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Path 22: an unforced Navier–Stokes realization"
+message: "Please cite this repository and its archived release."
+type: software
+authors:
+  - family-names: Westfall-McCoy
+    given-names: Taylor
+  - name: "Blu (OpenAI GPT-5.6-Sol)"
+version: 0.1.0
+date-released: 2026-11-24
+license: MIT
+abstract: "A Lean-certified finite zero-forcing incompressible Navier–Stokes realization of the Path 22 carrier geometry, with deterministic data binding and cross-host reproduction."
+
